@@ -13,6 +13,22 @@
     --foreground: #ededed;
   }
 }
+html,body{
+  width:100%;
+  height:100vh;
+  overflow:hidden;
+  margin:0px;
+  padding:0px;
+  border:none;
+}
+iframe{
+  width:100%;
+  height:100vh;
+  overflow:hidden;
+  margin:0px;
+  padding:0px;
+  border:none;
+}
 
 body {
   color: var(--foreground);
